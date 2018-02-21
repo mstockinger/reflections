@@ -30,3 +30,10 @@ organized? How would branches help?
 If you want to explore alternative concepts or make substantial changes. You can
 create a branch for it and work on these changes without influencing the main
 branch.
+
+
+
+How do the diagrams help you visualize the branch structure?
+
+Strange question, I don't understand. The diagrams help me to understand the
+branch structure by visualizing it.
