@@ -21,3 +21,12 @@ change?
 Change all the relevant files related to the logical change and add them to the
 staging area, then commit. If you have files changed which are not related to
 the logical change, leave them out.
+
+
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+If you want to explore alternative concepts or make substantial changes. You can
+create a branch for it and work on these changes without influencing the main
+branch.
