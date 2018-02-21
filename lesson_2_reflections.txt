@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git creates its infrastructure, i.e. creates the .git folder and all relevant
+files and subfolders that are needed to use Git. Only if this infrastructure is
+present, you can commit files to the repository and use Git to track changes.
