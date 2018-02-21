@@ -54,3 +54,5 @@ manually?
 
 Maybe sometimes Git merges changes that are redundant. But doing merges
 manually would be to time consuming.
+
+THE END
