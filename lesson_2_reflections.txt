@@ -12,3 +12,12 @@ What value do you think it offers?
 You can add files on at a time and then do a single commit. You can keep track
 of all the files you changed if you add them to the staging area immediately
 after a change.
+
+
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+Change all the relevant files related to the logical change and add them to the
+staging area, then commit. If you have files changed which are not related to
+the logical change, leave them out.
