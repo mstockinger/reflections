@@ -3,3 +3,12 @@ What happens when you initialize a repository? Why do you need to do it?
 Git creates its infrastructure, i.e. creates the .git folder and all relevant
 files and subfolders that are needed to use Git. Only if this infrastructure is
 present, you can commit files to the repository and use Git to track changes.
+
+
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+You can add files on at a time and then do a single commit. You can keep track
+of all the files you changed if you add them to the staging area immediately
+after a change.
