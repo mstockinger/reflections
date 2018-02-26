@@ -3,3 +3,12 @@ When would you want to use a remote repository rather than keeping all your work
 A remote repositiory is better if you want to work on your files from different computers,
 e.g. a desktop computer at home and a notebook if you are travelling. It is also better if
 you want to collaborate with others on the files, so everybody has access to the repository.
+
+
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+If others are working on the repository and push changes to the files, an
+automatic pull could mess up my files. There might be situations where I have
+to merge changes manually, and I want to do it exactly when I want to.
