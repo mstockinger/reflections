@@ -12,3 +12,12 @@ automatically stay up-to-date with your remote repository?
 If others are working on the repository and push changes to the files, an
 automatic pull could mess up my files. There might be situations where I have
 to merge changes manually, and I want to do it exactly when I want to.
+
+
+
+Describe the difference between forks, clones and branches. When would
+you use one instead of the other?
+
+A fork is used to copy a repository on GitHub. A clone is used to copy
+a repository from GitHub to my local computer or to clone a local
+repository. Branches are part of repositories.
