@@ -38,3 +38,12 @@ be harder?
 
 I would collaborate by sending repositories around. Everyone could work offline,
 but merging would be harder.
+
+
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefit does each approach have?
+
+It is better if others have to review the changes. You can even explore
+different approaches to solve a problem. But the actual merging is more
+complicated as if you were making the changes directly in master.
