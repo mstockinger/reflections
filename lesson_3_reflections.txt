@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+A remote repositiory is better if you want to work on your files from different computers,
+e.g. a desktop computer at home and a notebook if you are travelling. It is also better if
+you want to collaborate with others on the files, so everybody has access to the repository.
