@@ -21,3 +21,10 @@ you use one instead of the other?
 A fork is used to copy a repository on GitHub. A clone is used to copy
 a repository from GitHub to my local computer or to clone a local
 repository. Branches are part of repositories.
+
+
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+You can resolve merge conflicts.
