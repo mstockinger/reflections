@@ -30,3 +30,11 @@ What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
 You can resolve merge conflicts.
+
+
+
+How would you collaborate without using GitHub? What would be easier, what would
+be harder?
+
+I would collaborate by sending repositories around. Everyone could work offline,
+but merging would be harder.
